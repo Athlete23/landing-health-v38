@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?><Error><Code>SignatureDoesNotMatch</Code><Message>Access denied.</Message><Details>The request signature we calculated does not match the signature you provided. Check your Google secret key and signing method.</Details><StringToSign>GET
+
+
+1771611186
+/multimodal-cortex-prod_1117260580971/381afaa7-ad8f-4e97-ae9c-15b4c337d20e/1771524784407_image.png</StringToSign></Error>
